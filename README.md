@@ -23,4 +23,4 @@ Create a simple console based Java application that allows users to:
 - Demonstrates file reading and writing in Java.
 
 ## Output
-- Sample output (
+- Sample output (https://github.com/SusmithaHS/Notes-App/blob/main/Day4.png)
